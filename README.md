@@ -1,6 +1,8 @@
 # rabbitmq-tests
 Working with RabbitMQ
 
+After working with Apache Kafka during my part-time internship at Crédit Mutuel Arkéa, I wanted to discover another technology of this kind.
+
 Prerequisites
 - JDK
 - RabbitMQ installed and running
